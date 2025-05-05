@@ -1,0 +1,5 @@
+/.DS_Store
+/eval_results
+/fast_eval_results.tsv
+/qiskit_test.py
+/results
